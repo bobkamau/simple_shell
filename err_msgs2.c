@@ -1,7 +1,6 @@
 /*
  * File: err_msgs2.c
- * Auth: Abdulqodir Oladimeji
- *       Kenneth Onuma
+ * Auth: Robert Mwangi
  */
 
 #include "shell.h"
